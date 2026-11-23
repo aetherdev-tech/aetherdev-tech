@@ -70,7 +70,7 @@ I enjoy turning challenging technical problems into elegant, efficient, and reli
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anhtran917&show_icons=true&theme=tokyonight&hide_border=true)
+![Aether Dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=aetherdev-tech&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Aether%20Dev%27s%20GitHub%20Stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anhtran917&theme=tokyonight&hide_border=true)
 
