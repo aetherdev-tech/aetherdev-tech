@@ -7,8 +7,8 @@
 
 **Transforming complex ideas into powerful, scalable digital solutions.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=anhtran917&style=for-the-badge&color=0e75b6)
-![Followers](https://img.shields.io/github/followers/anhtran917?style=for-the-badge&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=aetherdev-tech&style=for-the-badge&color=0e75b6)
+![Followers](https://img.shields.io/github/followers/aetherdev-tech?style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -72,9 +72,9 @@ I enjoy turning challenging technical problems into elegant, efficient, and reli
 
 ![Aether Dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=aetherdev-tech&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Aether%20Dev%27s%20GitHub%20Stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anhtran917&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aetherdev-tech&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtran917&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aetherdev-tech&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -118,16 +118,6 @@ Software Engineering
     ├── Intelligent Automation
     └── Developer Productivity
 ```
-
----
-
-## 🌐 Connect & Collaborate
-
-I'm always interested in discussing innovative software solutions, engineering challenges, and exciting technical collaborations.
-
-📧 **Email:** [anhtrandev122@gmail.com](mailto:anhtrandev122@gmail.com)
-
-💻 **GitHub:** [Explore My Repositories](https://github.com/anhtran917)
 
 ---
 
